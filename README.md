@@ -1,6 +1,4 @@
-Bilkul bhai, yeh le full copy-paste-ready README content for your SmartCart Companion project:
 
-````markdown
 # 🛒 SmartCart Companion
 
 ### Behavioral & Emotional Data Powered Retail Optimization for Walmart
