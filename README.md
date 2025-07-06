@@ -91,8 +91,8 @@ Open for collabs and ideas! Feel free to fork, raise issues, or send PRs — let
 ## 📞 Contact
 
 Adithya Subhash (hecker)
-IIT Jodhpur | Software Engineer | Retail Tech Enthusiast
-[GitHub](https://github.com/<your-username>) | [LinkedIn](https://linkedin.com/in/<your-linkedin>)
+IIT Jodhpur | Retail Tech Enthusiast
+[GitHub](https://github.com/hecker-200/
 
 ---
 
